@@ -1,0 +1,41 @@
+.container {
+    background-color: rgb(145, 222, 248);
+    width: 60%;
+    /* margin: 0 auto; */
+}
+
+.content {
+    border: 2px solid black;   
+    border-radius: 10px;
+    margin: 0 auto;
+    display: block;
+    width: fit-content;
+    background-color: aqua;
+    width: 35%;
+    box-shadow: 8px 8px 6px rgba(0, 0, 0, 0.5);
+}
+
+.content-1 {
+    padding-top: 0;
+    padding-bottom: 0;
+    font-size: 30px;
+    padding: 0 90px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.pd{
+    padding-right: 50px;
+    text-align: left;
+}
+
+.button {
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border:1px solid black;
+}
+
